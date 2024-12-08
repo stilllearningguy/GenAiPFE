@@ -1,5 +1,4 @@
 .env
-
 Chinook_Sqlite.Chinook_Sqlite
-
 Chinook.db
+__pycache__/
